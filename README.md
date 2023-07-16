@@ -28,6 +28,7 @@ I seek to help others from the code, creating challenging projects that have a *
 - Express.js
 - PostgreSQL
 - Sequelize
+- Redux
 - GIT
 
 Including HTML and CSS! 🌐💻
