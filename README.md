@@ -9,6 +9,7 @@
 
 ## About me
 <br>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 👩‍💻 I'm **Full Stack Developer** passionate about creating solutions **innovative and scalable**. I love change, the unknown and I am always looking for new challenges, both in life and in code... 💡💻
 
