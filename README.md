@@ -32,12 +32,6 @@ I seek to help others from the code, creating challenging projects that have a *
 
 Including HTML and CSS! 🌐💻
 
-## About me
-👩‍💻 I'm **Full Stack Developer** passionate about creating solutions **innovative and scalable**. I love change, the unknown and I am always looking for new challenges, both in life and in code... 💡💻
-
-## How can I help you?
-💡 My experience focuses on development **Front-end and Back-end**. I am an enthusiastic collaborator and I enjoy working in teams, where I can contribute my skills **leadership, effective communication and problem solving**. 🤝🚀
-
 ## Contact me!
 📬 If you are interested in collaborating on exciting projects or have any questions, feel free to write to me!
 
