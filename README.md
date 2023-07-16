@@ -7,7 +7,7 @@
 </p>
 <br>
 
-## What am I looking for?
+## About me
 <br>
 
 👩‍💻 I'm **Full Stack Developer** passionate about creating solutions **innovative and scalable**. I love change, the unknown and I am always looking for new challenges, both in life and in code... 💡💻
