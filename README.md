@@ -6,7 +6,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome&hearts;++;Full-Stack+Developer,;Graduates+From+Henry,;A+Passionate+Programmer;Active+Learner/Researcher,;Love+to+learn+new+stuffs...<3"></a>
 </p>
 <br>
-##About me 
+
+## What am I looking for?
 <br>
 
 👩‍💻 I'm **Full Stack Developer** passionate about creating solutions **innovative and scalable**. I love change, the unknown and I am always looking for new challenges, both in life and in code... 💡💻
